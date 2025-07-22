@@ -1,4 +1,4 @@
-# 🏢 Job Portal – Bridging Talent & Opportunity  
+# 🏢 JobConnect – Bridging Talent & Opportunity  
 
 A **MERN Stack Job Portal** where recruiters can post jobs and candidates can apply seamlessly.  
 This platform connects **job seekers** with **recruiters** through a modern, user-friendly interface.  
